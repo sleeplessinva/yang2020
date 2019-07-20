@@ -1,6 +1,4 @@
-# Andrew Yang Policies
-
-## https://www.yang2020.com/policies/
+# [Andrew Yang Policies](https://www.yang2020.com/policies/)
 
 Andrew’s 3 Big Policies:
 

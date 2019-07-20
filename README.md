@@ -1,6 +1,6 @@
 # [Andrew Yang Policies](https://www.yang2020.com/policies/)
 
-Andrew’s 3 Big Policies:
+## Andrew’s 3 Big Policies:
 
 ### [Freedom Dividend](https://www.yang2020.com/policies/the-freedom-dividend/)
 ### [Medicare for All](https://www.yang2020.com/policies/medicare-for-all/) 
